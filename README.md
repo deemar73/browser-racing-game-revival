@@ -33,7 +33,18 @@ This is an unpaid, volunteer passion project.
 [Reasons that appeal to programmers]
 
 ## Design & Feature Mockups
-(Screenshots will go here)
+### Dealership & Vehicle Browsing
+![Dealership mockup](images/Car_Models_Shop.png)
+Mockup of the planned dealership and vehicle browsing system, including stats, pricing, and availability.
+
+### Reservation & Inventory Flow
+![Reservation mockup](images/Car_Reservation.png)
+Design concept for vehicle reservation and inventory management logic.
+
+### Engine & Parts System
+![Engine mockup](images/Engine_Shop.png)
+Mockup illustrating the intended modular engine system with performance stats and upgrade paths.
+
 
 ## Contact
 [How to reach you]
