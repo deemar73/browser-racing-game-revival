@@ -4,7 +4,7 @@ Legacy browser-based racing game seeking collaborators for modernization.
 # Browser Racing Game Revival
 
 ## What This Is
-[One-paragraph description]
+This is a legacy browser-based racing management game that was originally built in 2009 and I bought it in 2019 as a systems-heavy project focused on cars, parts, stats, and progression. The game already includes functioning dealership, engine, inventory, and pricing systems, but the underlying architecture and UI are outdated. I’m looking to modernize and clean up the codebase rather than start over from scratch. This repository exists to find collaborators interested in helping revive and reshape the project.
 
 ## What Already Exists
 - Core gameplay systems
