@@ -61,4 +61,5 @@ Mockup illustrating the intended modular engine system with performance stats an
 
 
 ## Contact
-[How to reach you]
+- Email: RedStingray73@gtracer.net
+
