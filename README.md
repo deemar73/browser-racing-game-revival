@@ -13,7 +13,7 @@ This is a legacy browser-based racing management game that was originally built 
 - Stats, pricing, progression logic
 
 ## Why This Needs Help
-[Short explanation of what’s outdated / broken / holding it back]
+The game was built over a long period of time using patterns and assumptions that made sense then, but don’t hold up well now. The codebase is tightly coupled, hard to extend, and not friendly to iteration or UI improvements. While the core systems work, making meaningful changes or adding new features has become increasingly difficult. I’m looking for help refactoring, reorganizing, and modernizing the structure so the project can evolve again.
 
 ## The Vision
 [What this game could become after modernization]
