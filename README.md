@@ -38,7 +38,13 @@ I’m open to different levels of involvement — from occasional guidance to ha
 This is an unpaid, volunteer passion project.
 
 ## Why You Might Want to Help
-[Reasons that appeal to programmers]
+This project may be a good fit if you:
+- Enjoy legacy code archaeology and refactoring challenges
+- Like system-heavy games and simulation logic
+- Want visible impact on a real project, not a tutorial
+- Are interested in collaborative problem-solving without corporate pressure
+- Appreciate honesty about scope, limitations, and goals
+
 
 ## Design & Feature Mockups
 ### Dealership & Vehicle Browsing
