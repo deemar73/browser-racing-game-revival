@@ -22,9 +22,17 @@ The game was built over a long period of time using patterns and assumptions tha
 [One short paragraph about you as the creator]
 
 ## What Help I’m Looking For
-- Backend / systems help
-- Frontend / UI modernization
-- Architecture / cleanup guidance
+I’m not looking for a single “hero dev” or a quick fix. I’m looking for one or two or even three collaborators who enjoy untangling legacy systems and helping shape a cleaner foundation.
+
+Areas where help would be especially valuable:
+- Reviewing and understanding the existing codebase
+- Helping plan a more modern architecture (without throwing everything away blindly)
+- Backend or systems-focused refactoring
+- Frontend/UI modernization and separation of concerns
+- General technical guidance and second opinions
+
+I’m open to different levels of involvement — from occasional guidance to hands-on refactoring — as long as expectations are clear and realistic.
+
 
 ## Compensation
 This is an unpaid, volunteer passion project.
