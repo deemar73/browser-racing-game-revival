@@ -32,7 +32,7 @@ This is an unpaid, volunteer passion project.
 ## Why You Might Want to Help
 [Reasons that appeal to programmers]
 
-## Screenshots
+## Design & Feature Mockups
 (Screenshots will go here)
 
 ## Contact
