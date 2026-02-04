@@ -16,7 +16,10 @@ This is a legacy browser-based racing management game that was originally built 
 The game was built over a long period of time using patterns and assumptions that made sense then, but don’t hold up well now. The codebase is tightly coupled, hard to extend, and not friendly to iteration or UI improvements. While the core systems work, making meaningful changes or adding new features has become increasingly difficult. I’m looking for help refactoring, reorganizing, and modernizing the structure so the project can evolve again.
 
 ## The Vision
-[What this game could become after modernization]
+The goal of this project is to revive and modernize a system-heavy browser-based racing game while preserving the depth that made it interesting to revamp in the first place. The game is intended to balance meaningful simulation and approachability, focusing on cars, parts, progression, and tradeoffs rather than flashy presentation.
+
+Modernization means improving the underlying architecture, separating concerns more cleanly, and creating a UI that supports the mechanics instead of obscuring them. This is envisioned as a long-term, evolving project rather than a rushed rebuild, with an emphasis on maintainability, clarity, and thoughtful iteration. Commercialization is not a current goal, but the project is being shaped with enough care that future options remain open.
+
 
 ## Who I Am
 [One short paragraph about you as the creator]
