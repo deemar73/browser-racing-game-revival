@@ -22,7 +22,10 @@ Modernization means improving the underlying architecture, separating concerns m
 
 
 ## Who I Am
-[One short paragraph about you as the creator]
+I’m the fourth owner of this project and have been working on it on and off since 2019 as a system-driven game. My background with the project spans both design and programming, with a stronger emphasis on systems thinking, mechanics, and long-term structure.
+
+I’m looking to collaborate rather than work in isolation at this stage. I value open discussion, mutual respect, and realistic scope, and I see collaborators as true partners in shaping the project’s future. While the original vision matters to me, I’m open to ideas and alternative approaches as long as changes are made deliberately and in service of the game’s core goals. In terms of design, the game was built around a high degree of mechanical flexibility. Engines are not locked to specific vehicles, body kits are designed to be compatible across a large portion of the car roster, and players can customize elements such as license plates, paint, and parts. These systems were intentional and form part of what makes the project interesting to revisit rather than replace.
+
 
 ## What Help I’m Looking For
 I’m not looking for a single “hero dev” or a quick fix. I’m looking for one or two or even three collaborators who enjoy untangling legacy systems and helping shape a cleaner foundation.
@@ -47,6 +50,7 @@ This project may be a good fit if you:
 - Want visible impact on a real project, not a tutorial
 - Are interested in collaborative problem-solving without corporate pressure
 - Appreciate honesty about scope, limitations, and goals
+- If you enjoy system design that prioritizes flexibility — for example, allowing engines and cosmetic parts to work across many vehicles instead of being hard-locked — this project may be especially interesting.
 
 
 ## Design & Feature Mockups
